@@ -1,0 +1,19 @@
+#translate {
+  float: left;
+  margin-left: 10px;
+  margin-top: 5px
+}
+
+#said {
+  float: left;
+  -moz-appearance: textfield-multiline;
+  -webkit-appearance: textarea;
+  background: white;
+  border: 1px solid darkgray;
+    box-shadow: 1px 1px 1px 0 lightgray inset;
+    font: -moz-field;
+    font: -webkit-small-control;
+    margin-top: 5px;
+    padding: 2px 3px;
+    width: 398px;
+}
